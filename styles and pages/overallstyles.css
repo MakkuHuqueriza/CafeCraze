@@ -311,7 +311,7 @@ section {
 .about-us {
     min-height: 800px;
     padding: 60px;
-    background-image: url(Images/cafe-bg.png);
+    background-image: url(/Images/cafe-bg.png);
     font-size: 24px;
 }
 
@@ -817,11 +817,11 @@ footer img{
 }
 
 .about-background-image-1st {
-    background-image: url(Images/ausbg.png);
+    background-image: url(/Images/ausbg.png);
     background-position: 50% 57%;  
 }
 .about-background-image-2nd {
-    background-image: url(Images/cusbg.png);  
+    background-image: url(/Images/cusbg.png);  
     background-position: 50% 56%;
     border-top: #111 2px solid;
 }
@@ -875,14 +875,14 @@ footer img{
 }
 
 .about-content-1st-background-1st{
-    background: url(Images/lance.jpg) no-repeat center;
+    background: url(/Images/lance.jpg) no-repeat center;
     background-size: cover;
     background-size: 400%;
     background-position: 52.5%;
 }   
 
 .about-content-1st-background-2nd{
-    background: url(Images/CreatorpictureMark.jpg) no-repeat center;
+    background: url(/Images/CreatorpictureMark.jpg) no-repeat center;
     background-size: cover; 
 }
   
@@ -973,7 +973,7 @@ footer img{
 .text {
     height: 500px;  
     width: 700px;
-    background-image: url(/Images/coffeebeans-bg.png);
+    background-image: url(//Images/coffeebeans-bg.png);
     background-size: 100% 100%;
     background-size: cover;
     display: flex;
